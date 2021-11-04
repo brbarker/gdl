@@ -33,6 +33,7 @@ test_bug_3152892.pro
 test_bug_3152899.pro
 test_bug_3189072.pro
 test_bug_3199465.pro
+text_write_csv.pro
 test_bug_3285659.pro
 test_bug_3286031.pro
 test_bug_3288652.pro
